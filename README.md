@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ayan Seal</h1>
+<!-- <h1 align="center">Hi 👋, I'm Ayan Seal</h1>
 <h3 align="center">A passionate Full-Stack Developer from India 🇮🇳</h3>
 
 <p align="center">
@@ -75,4 +75,110 @@
 
 ---
 
-⭐️ From **Ayan Seal**
+⭐️ From **Ayan Seal** -->
+
+
+
+
+<h1 align="center">Hi 👋, I'm Ayan</h1>
+<h3 align="center">Full-Stack & Mobile Application Developer</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ayanseal&label=Profile%20Views&color=blueviolet&style=flat-square" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7A5CFF&center=true&vCenter=true&width=480&lines=Building+Scalable+Web+%26+Mobile+Apps;Clean+Code+%7C+Secure+APIs+%7C+Linux;Frontend+%2B+Backend+Developer" />
+</p>
+
+---
+
+## 🚀 What I Do
+
+- Build **modern web & mobile applications**
+- Design **secure backend systems & REST APIs**
+- Work with **real-time systems and authentication**
+- Deploy and manage applications on **Linux servers**
+
+---
+
+## 🧠 Technical Expertise
+
+### 🖥️ Frontend
+![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,reactnative)
+
+### ⚙️ Backend
+![Backend](https://skillicons.dev/icons?i=nodejs,express)
+
+### 🗄️ Databases
+![Databases](https://skillicons.dev/icons?i=mongodb,mysql)
+
+### ☁️ DevOps & Tools
+![Tools](https://skillicons.dev/icons?i=git,github,linux,aws,vercel)
+
+### 🔐 Other Skills
+- JWT Authentication  
+- Role-Based Access Control (RBAC)  
+- File Uploads (Multer)  
+- ERPNext Integration  
+- WebSocket-based Systems  
+- Data Structures & Algorithms  
+
+---
+
+## 🧩 Selected Projects
+
+### 📱 Leeznow — Location-Based Mobile App
+- Built with **React Native CLI**
+- Location-based property discovery (10 km radius)
+- Microservice-based backend architecture
+- Secure authentication using **JWT**
+- Image uploads via **Multer**
+- Backend deployed on **Vercel**
+
+---
+
+### 🔐 Authentication & Authorization System
+- Secure login & signup APIs
+- JWT-based authentication flow
+- Role-based permission management
+- Built using **Node.js & Express**
+
+---
+
+### 🖥️ Linux Server Deployment
+- Configured production-like Linux servers
+- Static IP, NAT rules, port forwarding
+- Deployed Node.js services
+- Hands-on experience with server security & networking
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayanseal&show_icons=true&theme=radical" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayanseal&theme=radical" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayanseal&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 🌐 Find Me Online
+
+<p align="center">
+  <a href="https://github.com/ayanseal">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://ayanseal.site">
+    <img src="https://skillicons.dev/icons?i=webflow" />
+  </a>
+</p>
+
+---
+
+✨ *Focused on building clean, scalable, and maintainable systems.*
+
