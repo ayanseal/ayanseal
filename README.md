@@ -354,18 +354,6 @@
 ✓ Data Structures & Algorithms
 ```
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayanseal&show_icons=true&theme=chartreuse-dark&hide_border=false&border_color=00FF7F&bg_color=0D1117&title_color=00FF7F&icon_color=00FF7F&text_color=00FF7F" alt="Ayan's GitHub Stats"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ayanseal&theme=chartreuse-dark&hide_border=false&border_color=00FF7F&background=0D1117&stroke=00FF7F&ring=00FF7F&fire=00FF7F&currStreakLabel=00FF7F&sideLabels=00FF7F&dates=00FF7F&currStreakNum=00FF7F&sideNums=00FF7F" alt="Ayan's GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayanseal&layout=compact&theme=chartreuse-dark&hide_border=false&border_color=00FF7F&bg_color=0D1117&title_color=00FF7F&text_color=00FF7F" alt="Ayan's Top Languages"/>
-</div>
 
 ---
 
@@ -377,8 +365,8 @@
   
 </div>
 
-<div align="center">
+<!-- <div align="center">
   
   ### 💚 THANK YOU FOR VISITING 💚
   
-</div>
+</div> -->
