@@ -296,14 +296,23 @@
 </div> -->
 
 
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20👋%20I'm%20Ayan&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35" />
+```diff
+@@                                                                              @@
+@@                          🌟 WELCOME TO MY PROFILE 🌟                         @@
+@@                                                                              @@
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF7F&height=180&section=header&text=Hi%20👋%20I'm%20Ayan&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF7F&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Mobile+Application+Developer;Backend+Systems+Architect)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ayanseal&color=00FF7F&style=for-the-badge&label=PROFILE+VIEWS)
+
+```diff
++ ═══════════════════════════════════════════════════════════════════════════
+```
 
 </div>
 
@@ -311,51 +320,71 @@
 
 ## 🚀 What I Do
 
+```diff
++ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
 - 🎨 Build **modern web & mobile applications**
 - 🔐 Design **secure backend systems & REST APIs**
 - ⚡ Work with **real-time systems and authentication**
 - 🚀 Deploy and manage applications on **Linux servers**
 
+```diff
++ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
 <br>
 
 ## 💻 Tech Stack
 
+```diff
++ ═══════════════════════════════════════════════════════════════════════════
+```
+
 ### Frontend
 <p>
-<img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white"/>
-<img src="https://img.shields.io/badge/React_Native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-%2300FF7F.svg?style=for-the-badge&logo=html5&logoColor=white&color=00FF7F"/>
+<img src="https://img.shields.io/badge/CSS3-%2300FF7F.svg?style=for-the-badge&logo=css3&logoColor=white&color=00FF7F"/>
+<img src="https://img.shields.io/badge/JavaScript-%2300FF7F.svg?style=for-the-badge&logo=javascript&logoColor=white&color=00FF7F"/>
+<img src="https://img.shields.io/badge/TypeScript-%2300FF7F.svg?style=for-the-badge&logo=typescript&logoColor=white&color=00FF7F"/>
+<img src="https://img.shields.io/badge/React-%2300FF7F.svg?style=for-the-badge&logo=react&logoColor=white&color=00FF7F"/>
+<img src="https://img.shields.io/badge/Next.js-%2300FF7F.svg?style=for-the-badge&logo=next.js&logoColor=white&color=00FF7F"/>
+<img src="https://img.shields.io/badge/Redux-%2300FF7F.svg?style=for-the-badge&logo=redux&logoColor=white&color=00FF7F"/>
+<img src="https://img.shields.io/badge/React_Native-%2300FF7F.svg?style=for-the-badge&logo=react&logoColor=white&color=00FF7F"/>
 </p>
 
 ### Backend
 <p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-00FF7F?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-00FF7F?style=for-the-badge&logo=express&logoColor=white"/>
 </p>
 
 ### Database
 <p>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-00FF7F?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-00FF7F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 ### DevOps & Tools
 <p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-00FF7F?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-00FF7F?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-00FF7F?style=for-the-badge&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-00FF7F?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-00FF7F?style=for-the-badge&logo=vercel&logoColor=white"/>
 </p>
+
+```diff
++ ═══════════════════════════════════════════════════════════════════════════
+```
 
 <br>
 
 ## 🔐 Other Skills
+
+```diff
++ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
 
 - JWT Authentication
 - Role-Based Access Control (RBAC)
@@ -364,18 +393,30 @@
 - WebSocket-based Systems
 - Data Structures & Algorithms
 
+```diff
++ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
 <br>
 
 ## 📊 GitHub Stats
 
+```diff
++ ═══════════════════════════════════════════════════════════════════════════
+```
+
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ayanseal&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF7F&icon_color=00FF7F&text_color=ffffff" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayanseal&theme=radical&hide_border=true&background=0D1117&stroke=00FF7F&ring=00FF7F&fire=FF6D00&currStreakLabel=00FF7F" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ayanseal&show_icons=true&theme=chartreuse-dark&hide_border=false&border_color=00FF7F&bg_color=0D1117&title_color=00FF7F&icon_color=00FF7F&text_color=00FF7F" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayanseal&theme=chartreuse-dark&hide_border=false&border_color=00FF7F&background=0D1117&stroke=00FF7F&ring=00FF7F&fire=00FF7F&currStreakLabel=00FF7F&sideLabels=00FF7F&dates=00FF7F&currStreakNum=00FF7F&sideNums=00FF7F" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayanseal&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF7F&text_color=ffffff" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayanseal&layout=compact&theme=chartreuse-dark&hide_border=false&border_color=00FF7F&bg_color=0D1117&title_color=00FF7F&text_color=00FF7F" />
 
 </div>
+
+```diff
++ ═══════════════════════════════════════════════════════════════════════════
+```
 
 <br>
 
@@ -383,6 +424,12 @@
 
 ✨ *Focused on building clean, scalable, and maintainable systems* ✨
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF7F&height=100&section=footer" />
+
+```diff
+@@                                                                              @@
+@@                       💚 THANK YOU FOR VISITING 💚                          @@
+@@                                                                              @@
+```
 
 </div>
