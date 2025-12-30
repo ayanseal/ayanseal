@@ -250,13 +250,13 @@
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> 📊 GitHub Statistics
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF00FF&icon_color=FFD700&text_color=00FF00&rank_icon=github" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0D1117&stroke=00FF00&ring=FF00FF&fire=FFD700&currStreakLabel=00FF00" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AyansealE&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF00FF&icon_color=FFD700&text_color=00FF00&rank_icon=github" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayanseal&theme=radical&hide_border=true&background=0D1117&stroke=00FF00&ring=FF00FF&fire=FFD700&currStreakLabel=00FF00" />
 </p>
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF00FF&text_color=00FF00" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&bg_color=0D1117&color=FFD700&line=FF00FF&point=00FF00" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayanseal&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF00FF&text_color=00FF00" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=ayanseal&theme=react-dark&hide_border=true&bg_color=0D1117&color=FFD700&line=FF00FF&point=00FF00" />
 </p>
 
 <div align="center">
@@ -266,7 +266,7 @@
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&no-bg=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=ayanseal&theme=radical&no-frame=true&no-bg=true&row=1&column=7" />
 </p>
 
 </div>
