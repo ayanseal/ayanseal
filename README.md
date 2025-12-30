@@ -295,7 +295,6 @@
 
 </div> -->
 
-
 <div align="center">
 
 ```diff
@@ -320,71 +319,42 @@
 
 ## 🚀 What I Do
 
-```diff
-+ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
 - 🎨 Build **modern web & mobile applications**
 - 🔐 Design **secure backend systems & REST APIs**
 - ⚡ Work with **real-time systems and authentication**
 - 🚀 Deploy and manage applications on **Linux servers**
 
-```diff
-+ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
 <br>
 
 ## 💻 Tech Stack
 
-```diff
-+ ═══════════════════════════════════════════════════════════════════════════
-```
-
-### Frontend
+### 🖥️ Frontend
 <p>
-<img src="https://img.shields.io/badge/HTML5-%2300FF7F.svg?style=for-the-badge&logo=html5&logoColor=white&color=00FF7F"/>
-<img src="https://img.shields.io/badge/CSS3-%2300FF7F.svg?style=for-the-badge&logo=css3&logoColor=white&color=00FF7F"/>
-<img src="https://img.shields.io/badge/JavaScript-%2300FF7F.svg?style=for-the-badge&logo=javascript&logoColor=white&color=00FF7F"/>
-<img src="https://img.shields.io/badge/TypeScript-%2300FF7F.svg?style=for-the-badge&logo=typescript&logoColor=white&color=00FF7F"/>
-<img src="https://img.shields.io/badge/React-%2300FF7F.svg?style=for-the-badge&logo=react&logoColor=white&color=00FF7F"/>
-<img src="https://img.shields.io/badge/Next.js-%2300FF7F.svg?style=for-the-badge&logo=next.js&logoColor=white&color=00FF7F"/>
-<img src="https://img.shields.io/badge/Redux-%2300FF7F.svg?style=for-the-badge&logo=redux&logoColor=white&color=00FF7F"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux&theme=dark" />
+</p>
+
+<p>
 <img src="https://img.shields.io/badge/React_Native-%2300FF7F.svg?style=for-the-badge&logo=react&logoColor=white&color=00FF7F"/>
 </p>
 
-### Backend
+### ⚙️ Backend
 <p>
-<img src="https://img.shields.io/badge/Node.js-00FF7F?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-00FF7F?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
 </p>
 
-### Database
+### 🗄️ Database
 <p>
-<img src="https://img.shields.io/badge/MongoDB-00FF7F?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-00FF7F?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
 </p>
 
-### DevOps & Tools
+### ☁️ DevOps & Tools
 <p>
-<img src="https://img.shields.io/badge/Git-00FF7F?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-00FF7F?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-00FF7F?style=for-the-badge&logo=linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-00FF7F?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-00FF7F?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=git,github,linux,aws,vercel&theme=dark" />
 </p>
-
-```diff
-+ ═══════════════════════════════════════════════════════════════════════════
-```
 
 <br>
 
 ## 🔐 Other Skills
-
-```diff
-+ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
 
 - JWT Authentication
 - Role-Based Access Control (RBAC)
@@ -393,30 +363,22 @@
 - WebSocket-based Systems
 - Data Structures & Algorithms
 
-```diff
-+ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
 <br>
 
 ## 📊 GitHub Stats
-
-```diff
-+ ═══════════════════════════════════════════════════════════════════════════
-```
 
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ayanseal&show_icons=true&theme=chartreuse-dark&hide_border=false&border_color=00FF7F&bg_color=0D1117&title_color=00FF7F&icon_color=00FF7F&text_color=00FF7F" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayanseal&theme=chartreuse-dark&hide_border=false&border_color=00FF7F&background=0D1117&stroke=00FF7F&ring=00FF7F&fire=00FF7F&currStreakLabel=00FF7F&sideLabels=00FF7F&dates=00FF7F&currStreakNum=00FF7F&sideNums=00FF7F" />
 
+</div>
+
+<div align="center">
+
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayanseal&layout=compact&theme=chartreuse-dark&hide_border=false&border_color=00FF7F&bg_color=0D1117&title_color=00FF7F&text_color=00FF7F" />
 
 </div>
-
-```diff
-+ ═══════════════════════════════════════════════════════════════════════════
-```
 
 <br>
 
