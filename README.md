@@ -297,12 +297,13 @@
 
 
 
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20👋%20I'm%20Ayan&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Mobile+Application+Developer;Backend+Systems+Architect)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF7F&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Mobile+Application+Developer;Backend+Systems+Architect)](https://git.io/typing-svg)
+
+![Profile Views](https://komarev.com/ghpvc/?username=ayanseal&color=00FF7F&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -369,10 +370,10 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ayanseal&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayanseal&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6D00&currStreakLabel=00D9FF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ayanseal&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF7F&icon_color=00FF7F&text_color=ffffff" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayanseal&theme=radical&hide_border=true&background=0D1117&stroke=00FF7F&ring=00FF7F&fire=FF6D00&currStreakLabel=00FF7F" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayanseal&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayanseal&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF7F&text_color=ffffff" />
 
 </div>
 
