@@ -304,7 +304,11 @@
 
 ---
 
-<img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fayanseal.json&color=00FF7F&label=PROFILE%20VIEWS&style=flat-square" alt="Profile Views" />
+<!-- <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fayanseal.json&color=00FF7F&label=PROFILE%20VIEWS&style=flat-square" alt="Profile Views" /> -->
+<a href="https://github.com/ayanseal">
+  <img src="https://visitorbadge.io/badges/ayanseal/ayanseal?style=flat&labelColor=000&logo=github&logoColor=white&label=PROFILE+VIEWS&color=00FF7F" alt="Profile Views" />
+</a>
+
 
 
 ---
