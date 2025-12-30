@@ -304,6 +304,12 @@
 
 ---
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/ayanseal/count.svg" alt="Visitor Count" />
+</div>
+
+---
+
 ## 🚀 What I Do
 
 - 🎨 Build modern web & mobile applications
@@ -359,7 +365,7 @@
 
 <div align="center">
   
-  ### ✨ Focused on building clean, scalable, and maintainable systems ✨
+  ### Focused on building clean, scalable, and maintainable systems
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF7F&height=100&section=footer" />
   
