@@ -294,104 +294,91 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6,7,9,12,14,17,20,24&height=150&section=footer&animation=twinkling" />
 
 </div> -->
+# Hi 👋 I'm Ayan
 
 <div align="center">
-
-```diff
-@@                                                                              @@
-@@                          🌟 WELCOME TO MY PROFILE 🌟                         @@
-@@                                                                              @@
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF7F&height=180&section=header&text=Hi%20👋%20I'm%20Ayan&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35" />
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF7F&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Mobile+Application+Developer;Backend+Systems+Architect)](https://git.io/typing-svg)
-
-![Profile Views](https://komarev.com/ghpvc/?username=ayanseal&color=00FF7F&style=for-the-badge&label=PROFILE+VIEWS)
-
-```diff
-+ ═══════════════════════════════════════════════════════════════════════════
-```
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF7F&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Next.js+%26+React+Native+Expert;Building+Scalable+Systems)](https://git.io/typing-svg)
 
 </div>
 
-<br>
+---
 
 ## 🚀 What I Do
 
-- 🎨 Build **modern web & mobile applications**
-- 🔐 Design **secure backend systems & REST APIs**
-- ⚡ Work with **real-time systems and authentication**
-- 🚀 Deploy and manage applications on **Linux servers**
+- 🎨 Build modern web & mobile applications
+- 🔐 Design secure backend systems & REST APIs
+- ⚡ Work with real-time systems and authentication
+- 🚀 Deploy and manage applications on Linux servers
 
-<br>
+---
 
 ## 💻 Tech Stack
 
 ### 🖥️ Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux&theme=dark" />
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/React_Native-%2300FF7F.svg?style=for-the-badge&logo=react&logoColor=white&color=00FF7F"/>
-</p>
+![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)
 
 ### ⚙️ Backend
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
-</p>
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
 
 ### 🗄️ Database
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
-</p>
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### ☁️ DevOps & Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,aws,vercel&theme=dark" />
-</p>
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-<br>
+---
 
 ## 🔐 Other Skills
 
-- JWT Authentication
-- Role-Based Access Control (RBAC)
-- File Uploads (Multer)
-- ERPNext Integration
-- WebSocket-based Systems
-- Data Structures & Algorithms
+```
+✓ JWT Authentication
+✓ Role-Based Access Control (RBAC)
+✓ File Uploads (Multer)
+✓ ERPNext Integration
+✓ WebSocket-based Systems
+✓ Data Structures & Algorithms
+```
 
-<br>
+---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ayanseal&show_icons=true&theme=chartreuse-dark&hide_border=false&border_color=00FF7F&bg_color=0D1117&title_color=00FF7F&icon_color=00FF7F&text_color=00FF7F" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayanseal&theme=chartreuse-dark&hide_border=false&border_color=00FF7F&background=0D1117&stroke=00FF7F&ring=00FF7F&fire=00FF7F&currStreakLabel=00FF7F&sideLabels=00FF7F&dates=00FF7F&currStreakNum=00FF7F&sideNums=00FF7F" />
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayanseal&show_icons=true&theme=chartreuse-dark&hide_border=false&border_color=00FF7F&bg_color=0D1117&title_color=00FF7F&icon_color=00FF7F&text_color=00FF7F" alt="Ayan's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ayanseal&theme=chartreuse-dark&hide_border=false&border_color=00FF7F&background=0D1117&stroke=00FF7F&ring=00FF7F&fire=00FF7F&currStreakLabel=00FF7F&sideLabels=00FF7F&dates=00FF7F&currStreakNum=00FF7F&sideNums=00FF7F" alt="Ayan's GitHub Streak"/>
 </div>
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayanseal&layout=compact&theme=chartreuse-dark&hide_border=false&border_color=00FF7F&bg_color=0D1117&title_color=00FF7F&text_color=00FF7F" />
-
+  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayanseal&layout=compact&theme=chartreuse-dark&hide_border=false&border_color=00FF7F&bg_color=0D1117&title_color=00FF7F&text_color=00FF7F" alt="Ayan's Top Languages"/>
 </div>
 
-<br>
+---
 
 <div align="center">
+  
+  ### ✨ Focused on building clean, scalable, and maintainable systems ✨
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF7F&height=100&section=footer" />
+  
+</div>
 
-✨ *Focused on building clean, scalable, and maintainable systems* ✨
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF7F&height=100&section=footer" />
-
-```diff
-@@                                                                              @@
-@@                       💚 THANK YOU FOR VISITING 💚                          @@
-@@                                                                              @@
-```
-
+<div align="center">
+  
+  ### 💚 THANK YOU FOR VISITING 💚
+  
 </div>
