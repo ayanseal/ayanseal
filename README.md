@@ -129,7 +129,7 @@
 ✨ *Focused on building clean, scalable, and maintainable systems.*
 --><div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6,7,9,12,14,17,20,24&height=200&section=header&text=Hi%20👋%20I'm%20Ayan&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" />
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6,7,9,12,14,17,20,24&height=200&section=header&text=Hi%20👋%20I'm%20Ayan&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=FF00F7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Full-Stack+%26+Mobile+Application+Developer;%F0%9F%8C%88+Building+Colorful+Digital+Experiences+%F0%9F%8C%88)](https://git.io/typing-svg)
 
@@ -292,5 +292,96 @@
 ### ✨ ***Focused on building clean, scalable, and maintainable systems.*** ✨
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,6,7,9,12,14,17,20,24&height=150&section=footer&animation=twinkling" />
+
+</div> -->
+
+
+
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20👋%20I'm%20Ayan&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Mobile+Application+Developer;Backend+Systems+Architect)](https://git.io/typing-svg)
+
+</div>
+
+<br>
+
+## 🚀 What I Do
+
+- 🎨 Build **modern web & mobile applications**
+- 🔐 Design **secure backend systems & REST APIs**
+- ⚡ Work with **real-time systems and authentication**
+- 🚀 Deploy and manage applications on **Linux servers**
+
+<br>
+
+## 💻 Tech Stack
+
+### Frontend
+<p>
+<img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/React_Native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black"/>
+</p>
+
+### Backend
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+</p>
+
+### Database
+<p>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+### DevOps & Tools
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</p>
+
+<br>
+
+## 🔐 Other Skills
+
+- JWT Authentication
+- Role-Based Access Control (RBAC)
+- File Uploads (Multer)
+- ERPNext Integration
+- WebSocket-based Systems
+- Data Structures & Algorithms
+
+<br>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ayanseal&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayanseal&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6D00&currStreakLabel=00D9FF" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayanseal&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+✨ *Focused on building clean, scalable, and maintainable systems* ✨
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
 </div>
