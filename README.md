@@ -304,9 +304,8 @@
 
 ---
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/ayanseal/count.svg" alt="Visitor Count" />
-</div>
+<img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhits.dwyl.com%2Fayanseal.json&color=00FF7F&label=PROFILE%20VIEWS&style=flat-square" alt="Profile Views" />
+
 
 ---
 
